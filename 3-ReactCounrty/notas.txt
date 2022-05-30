@@ -1,0 +1,5 @@
+Renderização de Arrays:
+--Erro comum: Prop drilling
+--Tecnica para solução(uma das): Composition
+--renderizar os arrays manualmente é uma pessima pratíca
+--utilize o map e utilize uma key(o react irá te obrigar)

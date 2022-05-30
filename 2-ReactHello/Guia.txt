@@ -1,0 +1,32 @@
+2.1
+(x) Instalar dependências com comando Yarn
+(x) Explicar o .Env
+(x) Instalar o React Developer Tools
+(x) Abordar o Jsx
+(x) Explicar o conceito de Fragment
+(x) Class e className e htmlfor
+(x) Interpolando dados js no jsx com a Sintaxe de {}
+
+2.4
+(x) Componentizar Header e Main
+(x) Explicar o snippet _rfc do ES7+ React
+(x) Criar Props no Test
+(x) Criar input no app
+
+2.6
+(x) Explicar o Conceito de State
+(x) Criar State para name com useState
+(x) Fazer com que o input leia e altere name
+
+2.7
+(x) Componentizando o Input
+
+2.8
+(x) Criar a função para calcular a data a partir da idade de nascimento
+(x) Verificar se o tipo do input trabalha com datas invalidas
+
+2.11
+(x) Criar função para exibir e remover component timer com checkbox
+
+2.12
+(x) Tratar o vazamento de dados com setInterval()

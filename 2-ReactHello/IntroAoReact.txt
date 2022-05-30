@@ -1,0 +1,29 @@
+
+º Termos Importantes
+
+Componentes:
+--Função que agrupa determinado Comportamento
+--Se bem Escritos podem ser reaproveitados 
+--Exportar funções js, CSS e HTML
+
+JSX:
+--Javascript XML
+--Utilizado para escrever Componentes
+--Html escrito de um programa Javascript
+
+Sintaxe ES6:
+--Palavras chaves import e Exportar
+--Essencial para comunicação entre Componentes
+
+Props:
+--Semelhante a atributos de HTML
+--Tido como as regras do React(podem ser alteradas com outros programas)
+--Prop especial: children
+--Função: comunicação de dados entre Componentes 
+
+Closure:
+--Função dentro de Função
+--Muito usado para criar Componentes reativos/ocorrência de eventos
+
+State:
+--Estado dos Componentes

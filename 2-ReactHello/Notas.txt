@@ -1,0 +1,13 @@
+Jsx é similar ao Javascript mas diferente
+--import react from 'react', era necessario somente antes da versão 17 pra utilizar o jsx
+--navegador interpreta apenas js, o babel converte o jsx em js
+--class é reservado ao js, className é para o jsx
+--for também é reservado então utilize htmlFor 
+--toda tag deve ter fechamento(se não tem use />)
+--conteudo hardcode = engessado, não dinamico
+--props é uma função react usado para comunicação entre components
+--{} destructing para extrair somente o que usa
+--É mais comum deixar booleanos vazio, ex: visible ; ja é true por padrão
+--event sintetic = evento sintetico do react
+--currentTarget, atualização do target no react
+--Isolando um serviço/biblioteca/regras de negocio que se utiliza você apenas modifica um único ponto
